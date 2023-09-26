@@ -1,0 +1,34 @@
+
+go to developer command promt for 2019
+
+
+pac pcf init --namespace SurveyJSSep23 --name SurveyJSSep23 --template field
+
+softchief.com
+
+npm install
+
+npm run  build
+
+npm start watch 
+
+pac solution init --publisher-name dev --publisher-prefix dp
+
+
+pac solution add-reference --path "C:\Users\SambandS\Power Apps\PCF\Sep23SurveyJSPCF"
+
+msbuild /t:build /restore
+
+
+ReactJS commands
+================
+
+npm install react react-dom @fluentui/react
+npm i --save-dev @types/react-dom
+
+SurveyJS Commands
+==================
+
+npm install survey-react-ui --save
+
+
