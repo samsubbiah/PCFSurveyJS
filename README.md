@@ -4,14 +4,16 @@ go to developer command promt for 2019(https://learn.microsoft.com/en-us/visuals
 
 pac pcf init --namespace SurveyJSSep23 --name SurveyJSSep23 --template field
 
-softchief.com
-
 npm install
 
 npm run  build
 
 npm start watch 
 
+create a solution directory
+
+cd solutions
+ 
 pac solution init --publisher-name dev --publisher-prefix dp
 
 
